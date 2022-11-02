@@ -1,8 +1,9 @@
-## Welcome to my VMWare notebook.
+## Welcome
 
-Some tips and tricks I picked up while working on [VMWare Solutions on IBM Cloud](https://cloud.ibm.com/infrastructure/vmware-solutions/console) offerings.
+Tips and tricks for working on the [VMWare Solutions on IBM Cloud](https://cloud.ibm.com/infrastructure/vmware-solutions/console) offerings.
 
-<h2><center>AS OF 2022-01-24  I AM NO LONGER WORKING FOR IBM - Contact IBM Support for assistance with VMWare Soutions items.  <br/>Thank you!</center></h2>
+<h2><center>This blog is the creation of the one and only <a href="https://github.com/mlwiles">mlwiles</a></center></h2>
+<p>While he has moved on to other borglike corporate gigs he has generously granted his IBM team permission to run with his blog</p>
 
 <img src="images/ic4v.png" width="1000" style="border: 1px solid black">
 
