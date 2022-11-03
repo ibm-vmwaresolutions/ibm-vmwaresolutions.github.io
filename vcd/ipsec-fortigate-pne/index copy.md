@@ -2,9 +2,9 @@
 
 Updated: 2020-12-17
 
-In order to use a PNE for your IPSec tunnel between your IBM account to your IBM VMWare Solutions Shared virtual datacenter (vDC), you must first have a PNE ordered in your vDC.  See how to [Order IBM Private Network Endpoint (PNE)](https://mlwiles.github.io/vmwaresolutions/vcd/order-pne/).  
+In order to use a PNE for your IPSec tunnel between your IBM account to your IBM VMWare Solutions Shared virtual datacenter (vDC), you must first have a PNE ordered in your vDC.  See how to [Order IBM Private Network Endpoint (PNE)](https://ibm-vmwaresolutions.github.io/vcd/order-pne/).  
 
-Additionally there is a detailed example of connecting two separate virtual datacenters using NSX-to-NSX Edge configuration - [IPSec Tunnel over IBM PNE](https://mlwiles.github.io/vmwaresolutions/vcd/ipsec-pne/)  
+Additionally there is a detailed example of connecting two separate virtual datacenters using NSX-to-NSX Edge configuration - [IPSec Tunnel over IBM PNE](https://ibm-vmwaresolutions.github.io/vcd/ipsec-pne/)  
 
 This example will demonstrate how to connect a vCloud Director vDC to another device, Fortigate (NSX-to-Fortigate) in different IBM Cloud account.  This allows bi-directional communication for virtual machines in the virtual datacenter to virtual machines in a different IBM Cloud account fronted by the Vyatta device using the IBM Cloud backbone.  
 
@@ -45,5 +45,5 @@ Firewall:  Allow the DNAT to the PNE ordered
 
 _Note the information described in this example are guidelines.  There are multiple ways to configure the various parts of the example.  Please adjust accordingly for your needs._
 
-[VMWare vCloud Director](https://mlwiles.github.io/vmwaresolutions/vcd/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[VMWare vCloud Director](https://ibm-vmwaresolutions.github.io/vcd/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)

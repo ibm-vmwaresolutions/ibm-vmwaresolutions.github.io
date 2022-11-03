@@ -8,36 +8,36 @@
 Some different use cases involving vCD. Most likely these will be using VMWare Solutions on IBM Cloud, but will try to make reference when its more of a generic solution or an IBM specific offering.
 
 - vCD Basics
-  - [Simple Deploy of a VM](https://mlwiles.github.io/vmwaresolutions/vcd/vm101/)
-  - [Customized VMs (_coming soon_)](https://mlwiles.github.io/vmwaresolutions/vcd/custom-vms/)
-  - [Creating vAPP Templates (_coming soon_)](https://mlwiles.github.io/vmwaresolutions/vcd/vapp-templates/)
-  - [Passwords and Login Messages](https://mlwiles.github.io/vmwaresolutions/vcd/pwd-motd/)
-  - [VMWare Tools](https://mlwiles.github.io/vmwaresolutions/vcd/vmwaretools/)
+  - [Simple Deploy of a VM](https://ibm-vmwaresolutions.github.io/vcd/vm101/)
+  - [Customized VMs (_coming soon_)](https://ibm-vmwaresolutions.github.io/vcd/custom-vms/)
+  - [Creating vAPP Templates (_coming soon_)](https://ibm-vmwaresolutions.github.io/vcd/vapp-templates/)
+  - [Passwords and Login Messages](https://ibm-vmwaresolutions.github.io/vcd/pwd-motd/)
+  - [VMWare Tools](https://ibm-vmwaresolutions.github.io/vcd/vmwaretools/)
 - vCD Networking
-  - [Networking made easy](https://mlwiles.github.io/vmwaresolutions/vcd/network101/)
-  - [Internet and IBM Cloud services access](https://mlwiles.github.io/vmwaresolutions/vcd/outbound/)
-  - [Secure inbound access](https://mlwiles.github.io/vmwaresolutions/vcd/inbound/)
-  - [Network troubleshooting (_coming soon_)](https://mlwiles.github.io/vmwaresolutions/vcd/networktrouble/)
-  - [Network HA via DC Groups](https://mlwiles.github.io/vmwaresolutions/vcd/networkdcg/)
+  - [Networking made easy](https://ibm-vmwaresolutions.github.io/vcd/network101/)
+  - [Internet and IBM Cloud services access](https://ibm-vmwaresolutions.github.io/vcd/outbound/)
+  - [Secure inbound access](https://ibm-vmwaresolutions.github.io/vcd/inbound/)
+  - [Network troubleshooting (_coming soon_)](https://ibm-vmwaresolutions.github.io/vcd/networktrouble/)
+  - [Network HA via DC Groups](https://ibm-vmwaresolutions.github.io/vcd/networkdcg/)
 - IPSec Tunnel over Public
-  - [Order IBM Cloud VPN Tunnel (_coming soon_)](https://mlwiles.github.io/vmwaresolutions/vcd/order-ibmc-ipsec/)
-  - [vDC to IBM Cloud VPN Tunnel (_coming soon_)](https://mlwiles.github.io/vmwaresolutions/vcd/ipsec-ibmc/)
-  - [vDC to vDC ESG (_coming soon_)](https://mlwiles.github.io/vmwaresolutions/vcd/ipsec-esg/)
-  - [vDC to SRX (_coming soon_)](https://mlwiles.github.io/vmwaresolutions/vcd/ipsec-srx/)
+  - [Order IBM Cloud VPN Tunnel (_coming soon_)](https://ibm-vmwaresolutions.github.io/vcd/order-ibmc-ipsec/)
+  - [vDC to IBM Cloud VPN Tunnel (_coming soon_)](https://ibm-vmwaresolutions.github.io/vcd/ipsec-ibmc/)
+  - [vDC to vDC ESG (_coming soon_)](https://ibm-vmwaresolutions.github.io/vcd/ipsec-esg/)
+  - [vDC to SRX (_coming soon_)](https://ibm-vmwaresolutions.github.io/vcd/ipsec-srx/)
 - Private Network Enpoints (PNE)
-  - [Order VMware Solutions Shared PNE](https://mlwiles.github.io/vmwaresolutions/vcd/order-pne/)
-  - [IPSec Tunnel over PNE to ESG](https://mlwiles.github.io/vmwaresolutions/vcd/ipsec-esg-pne/)
-  - [IPSec Tunnel over PNE to SRX](https://mlwiles.github.io/vmwaresolutions/vcd/ipsec-srx-pne/)
+  - [Order VMware Solutions Shared PNE](https://ibm-vmwaresolutions.github.io/vcd/order-pne/)
+  - [IPSec Tunnel over PNE to ESG](https://ibm-vmwaresolutions.github.io/vcd/ipsec-esg-pne/)
+  - [IPSec Tunnel over PNE to SRX](https://ibm-vmwaresolutions.github.io/vcd/ipsec-srx-pne/)
 - Terraform
-  - [Terraform deploying all OS templates](https://mlwiles.github.io/vmwaresolutions/vcd/terraform/all/)
+  - [Terraform deploying all OS templates](https://ibm-vmwaresolutions.github.io/vcd/terraform/all/)
 
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[Main Page](https://ibm-vmwaresolutions.github.io)
 
 <!-- to add
   IPSec Tunnel over Public
-  - [vDC to Vyatta (_coming soon_)](https://mlwiles.github.io/vmwaresolutions/vcd/ipsec-vyatta/)
-  - [vDC to Fortigate (_coming soon_)](https://mlwiles.github.io/vmwaresolutions/vcd/ipsec-fortigate/)
+  - [vDC to Vyatta (_coming soon_)](https://ibm-vmwaresolutions.github.io/vcd/ipsec-vyatta/)
+  - [vDC to Fortigate (_coming soon_)](https://ibm-vmwaresolutions.github.io/vcd/ipsec-fortigate/)
   Private Network Enpoints (PNE)
-  - [IPSec Tunnel over IBM PNE - Vyatta (_coming soon_)](https://mlwiles.github.io/vmwaresolutions/vcd/ipsec-vyatta-pne/)
-  - [IPSec Tunnel over IBM PNE - Fortigate (_coming soon_)](https://mlwiles.github.io/vmwaresolutions/vcd/ipsec-fortigate-pne/)
+  - [IPSec Tunnel over IBM PNE - Vyatta (_coming soon_)](https://ibm-vmwaresolutions.github.io/vcd/ipsec-vyatta-pne/)
+  - [IPSec Tunnel over IBM PNE - Fortigate (_coming soon_)](https://ibm-vmwaresolutions.github.io/vcd/ipsec-fortigate-pne/)
 -->

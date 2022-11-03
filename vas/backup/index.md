@@ -102,11 +102,11 @@ Selecting the *Details* of the job will provide some more details of the overall
 
 <img src="images/16-job-running.png" width="1000" style="border: 1px solid black">
 
-Notice that when a specific artifact is highlighted in the job, specific messages will be shown in the bottom of the page.  In this case, it’s interesting to note that a message was returned regarding *Change block tracking cannot be enabled: one or more snapshots present*.  In this case we did not explicitly create any snapshots for this VM so huh???  Well since this specific VM was created from [Veeam Cloud Connect Replication](https://mlwiles.github.io/vmwaresolutions/vccr/), we will have to take some extra steps to remove these snapshots and allow this VM to be in stead-state.  See [Migration to vCD](https://mlwiles.github.io/vmwaresolutions/vccr/vcd-migration/) to permanently failover this VM and promote it to production status.
+Notice that when a specific artifact is highlighted in the job, specific messages will be shown in the bottom of the page.  In this case, it’s interesting to note that a message was returned regarding *Change block tracking cannot be enabled: one or more snapshots present*.  In this case we did not explicitly create any snapshots for this VM so huh???  Well since this specific VM was created from [Veeam Cloud Connect Replication](https://ibm-vmwaresolutions.github.io/vccr/), we will have to take some extra steps to remove these snapshots and allow this VM to be in stead-state.  See [Migration to vCD](https://mlwiles.github.io/vmwaresolutions/vccr/vcd-migration/) to permanently failover this VM and promote it to production status.
 
 <img src="images/17-job-cbt.png" width="1000" style="border: 1px solid black">
 
-The VM that we created in [Simple Deploy of a VM](https://mlwiles.github.io/vmwaresolutions/vcd/vm101/) is backing up without issue.
+The VM that we created in [Simple Deploy of a VM](https://ibm-vmwaresolutions.github.io/vcd/vm101/) is backing up without issue.
 
 <img src="images/18-job-harddisk.png" width="1000" style="border: 1px solid black">
 
@@ -127,10 +127,10 @@ Otherwise, you can enjoy the summary emails that can be sent on the scheduled ca
 Many items were discussed here and some come with a cost, be sure to check out the pricing details on the VM components visit [
 VMware Solutions Shared pricing](https://cloud.ibm.com/docs/vmwaresolutions?topic=vmwaresolutions-shared_pricing) section.
 
-[Restore from backup](https://mlwiles.github.io/vmwaresolutions/vas/restore/index.md) is next best set of steps that can be taken to test the backups as well as restore in the case of a data loss, corruption, or some other reasons.
+[Restore from backup](https://ibm-vmwaresolutions.github.io/vas/restore/index.md) is next best set of steps that can be taken to test the backups as well as restore in the case of a data loss, corruption, or some other reasons.
 
 _Note the information described in this example are guidelines.  There are multiple ways to configure the various parts of the example.  Please adjust accordingly for your needs._
 
-[Veeam Availability Suite](https://mlwiles.github.io/vmwaresolutions/vas/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[Veeam Availability Suite](https://ibm-vmwaresolutions.github.io/vas/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)
 

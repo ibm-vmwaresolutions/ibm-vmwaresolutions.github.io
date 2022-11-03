@@ -50,9 +50,9 @@ Once the Wizard is completed, the service provider entry is ready for use.
 
 <img src="images/11-vccr-sp.png" width="1000" style="border: 1px solid black">
 
-Next we will setup a [Simple Replication job to vCD](https://mlwiles.github.io/vmwaresolutions/vccr/vcd-job/). 
+Next we will setup a [Simple Replication job to vCD](https://ibm-vmwaresolutions.github.io/vccr/vcd-job/). 
 
 _Note the information described in this example are guidelines.  There are multiple ways to configure the various parts of the example.  Please adjust accordingly for your needs._
 
-[Veeam Cloud Connect Replication](https://mlwiles.github.io/vmwaresolutions/vccr/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[Veeam Cloud Connect Replication](https://ibm-vmwaresolutions.github.io/vccr/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)

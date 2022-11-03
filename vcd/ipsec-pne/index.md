@@ -3,7 +3,7 @@
 Updated: 2021-02-09
 
 <br/>
-This page has been moved to [PNE via ESG](https://mlwiles.github.io/vmwaresolutions/vcd/ipsec-esg-pne)  Please update bookmarks accordingly :) <br/><br/>
+This page has been moved to [PNE via ESG](https://ibm-vmwaresolutions.github.io/vcd/ipsec-esg-pne)  Please update bookmarks accordingly :) <br/><br/>
 
-[VMWare vCloud Director](https://mlwiles.github.io/vmwaresolutions/vcd/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[VMWare vCloud Director](https://ibm-vmwaresolutions.github.io/vcd/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)

@@ -269,6 +269,6 @@ My Source Terraform<br/>
 [Create / Prep Images](https://github.com/mlwiles/scripts/tree/main/terraform/vcd/prep-templates)<br/>
 [Test Local Images](https://github.com/mlwiles/scripts/tree/main/terraform/vcd/prep-templates-test)<br/>
 
-[VMWare vCloud Director](https://mlwiles.github.io/vmwaresolutions/vcd/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[VMWare vCloud Director](https://ibm-vmwaresolutions.github.io/vcd/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)
 

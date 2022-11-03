@@ -5,7 +5,7 @@ Updated: 2021-02-09
 **_NOTE: ~~As of 2021-03-01 the vSRX over private PNE to VCD has a known issue where the tunnel fails for 2 minutes every 24 hrs.  Over public works fine and actually has less latency between the SRX and ESG.  There are open work items with Juniper and VMWare to determine where the tunnel config is failing to keep the tunnel active.  Stay tuned for updates~~<br>
 UPDATE: 2021-05-24 the vSRX over private PNE to VCD has a requirement to use IKEv2 and it seems to have resolved the issue identified earlier this year_**
 
-Based on the initial example of an [IPSec Tunnel over IBM PNE - ESG](https://mlwiles.github.io/vmwaresolutions/vcd/ipsec-esg-pne/), this modification of the example will change the 'external' or 'inbound' side of the IPSec tunnel which was using ESG and to now use an SRX.
+Based on the initial example of an [IPSec Tunnel over IBM PNE - ESG](https://ibm-vmwaresolutions.github.io/vcd/ipsec-esg-pne/), this modification of the example will change the 'external' or 'inbound' side of the IPSec tunnel which was using ESG and to now use an SRX.
 
 Replace the vCloud Directory using an ESG in Frankfurt ...
 <img src="images/1-vdc-pne-ipsec.png" width="1000" style="border: 1px solid black">
@@ -32,7 +32,7 @@ To do so, we have deployed an SRX appliance in the vCenter in FRA (Juniper appli
 
 ## Configuring the Dallas vDC.
 
-Same config in Dallas vDC from the referenced example, [IPSec Tunnel over IBM PNE - ESG](https://mlwiles.github.io/vmwaresolutions/vcd/ipsec-esg-pne/)<br>
+Same config in Dallas vDC from the referenced example, [IPSec Tunnel over IBM PNE - ESG](https://ibm-vmwaresolutions.github.io/vcd/ipsec-esg-pne/)<br>
 The change required for IBM VMWare Shared side of the tunnel is to change the IKE version to v2:
 - IKE Option: IKEv2
 
@@ -197,5 +197,5 @@ _Additional note this SRX is not secured/locked down as would be recommended in 
 
 Credit:  [Nigel Vander Houwen](https://www.linkedin.com/in/nigel-vander-houwen-1a0a1626/) for his Network expertise!
 
-[VMWare vCloud Director](https://mlwiles.github.io/vmwaresolutions/vcd/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[VMWare vCloud Director](https://ibm-vmwaresolutions.github.io/vcd/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)

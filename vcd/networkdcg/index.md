@@ -97,6 +97,6 @@ Back to: [Menu](#toc)
 
 _Note the information described in this example are guidelines.  There are multiple ways to configure the various parts of the example.  Please adjust accordingly for your needs._
 
-[VMWare vCloud Director](https://mlwiles.github.io/vmwaresolutions/vcd/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[VMWare vCloud Director](https://ibm-vmwaresolutions.github.io/vcd/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)
 

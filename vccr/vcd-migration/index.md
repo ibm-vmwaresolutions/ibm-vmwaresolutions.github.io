@@ -2,7 +2,7 @@
 
 Updated: 2020-12-26
 
-Once the [Disaster Recovery Prep](https://mlwiles.github.io/vmwaresolutions/vccr/vcd-dr/) is ready and the VM is powered on, the provider can see this from the vCenter.
+Once the [Disaster Recovery Prep](https://ibm-vmwaresolutions.github.io/vccr/vcd-dr/) is ready and the VM is powered on, the provider can see this from the vCenter.
 
 <img src="images/13-failover-vbr.png" width="1000" style="border: 1px solid black">
 
@@ -42,6 +42,6 @@ Now the VM is ready for production running explicitly from the vDC.
 
 _Note the information described in this example are guidelines.  There are multiple ways to configure the various parts of the example.  Please adjust accordingly for your needs._
 
-[Veeam Cloud Connect Replication](https://mlwiles.github.io/vmwaresolutions/vccr/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[Veeam Cloud Connect Replication](https://ibm-vmwaresolutions.github.io/vccr/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)
 

@@ -17,7 +17,7 @@ Updated: 2021-05-01
 
 If you have requirements for your Virtual Machines to access either the Internet or IBM Cloud services, then you can configure SECURE outbound access for your VM.  This is great way to utilize the large portfolio of IBM Services as well as accessing your critical data that might be outside of IBM Cloud.
 
-For more details on allowing external access to your VMs see [Secure inbound access](https://mlwiles.github.io/vmwaresolutions/vcd/inbound).
+For more details on allowing external access to your VMs see [Secure inbound access](https://ibm-vmwaresolutions.github.io/vcd/inbound).
 
 Back to: [Menu](#toc)
 
@@ -69,7 +69,7 @@ For this example, I created a network with the following criteria:
 - Connection Type: `Subinterface`
 - Static IP Pool: `172.16.10.10-172.16.10.20`
 
-Review [vCD -   Networks made easy](https://mlwiles.github.io/vmwaresolutions/vcd/network101/) for additional information on how to create a network.
+Review [vCD -   Networks made easy](https://ibm-vmwaresolutions.github.io/vcd/network101/) for additional information on how to create a network.
 
 <img src="images/3-network.png" style="border: 1px solid black">
 
@@ -152,12 +152,12 @@ Compute > Virtual Machine > MACHINE > Actions > Launch Web Console
 
 <img src="images/12-test.png" style="border: 1px solid black">
 
-For more details on deploying VMs see [vCD - Simple Deploy of a VM](https://mlwiles.github.io/vmwaresolutions/vcd/vm101/).
+For more details on deploying VMs see [vCD - Simple Deploy of a VM](https://ibm-vmwaresolutions.github.io/vcd/vm101/).
 
 Back to: [Menu](#toc)
 
 _Note the information described in this example are guidelines.  There are multiple ways to configure the various parts of the example.  Please adjust accordingly for your needs._ 
 
-[VMWare vCloud Director](https://mlwiles.github.io/vmwaresolutions/vcd/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[VMWare vCloud Director](https://ibm-vmwaresolutions.github.io/vcd/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)
 

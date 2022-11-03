@@ -15,7 +15,7 @@ Tips and tricks for working on the [VMWare Solutions on IBM Cloud](https://cloud
   - I can change and/or update my disclosure at anytime :)
 
 Topics:
-- [IBM Cloud](https://mlwiles.github.io/vmwaresolutions/ibmcloud/)
-- [VMWare vCloud Director](https://mlwiles.github.io/vmwaresolutions/vcd/)
-- [Veeam Availability Suite](https://mlwiles.github.io/vmwaresolutions/vas/)
-- [Veeam Cloud Connect Replication](https://mlwiles.github.io/vmwaresolutions/vccr/)
+- [IBM Cloud](https://ibm-vmwaresolutions.github.io/ibmcloud/)
+- [VMWare vCloud Director](https://ibm-vmwaresolutions.github.io/vcd/)
+- [Veeam Availability Suite](https://ibm-vmwaresolutions.github.io/vas/)
+- [Veeam Cloud Connect Replication](https://ibm-vmwaresolutions.github.io/vccr/)

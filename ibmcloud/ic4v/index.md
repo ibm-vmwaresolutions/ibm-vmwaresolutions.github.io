@@ -13,5 +13,5 @@ Updated: 2021-09-29
 <img src="images/05-landing.png" style="border: 1px solid black">
 
 
-[IBM Cloud](https://mlwiles.github.io/vmwaresolutions/ibmcloud/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[IBM Cloud](https://ibm-vmwaresolutions.github.io/ibmcloud/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)

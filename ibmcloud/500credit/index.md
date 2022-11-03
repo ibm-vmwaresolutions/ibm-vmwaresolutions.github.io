@@ -12,5 +12,5 @@ Work in progress.  Hope to post content soon... in the meantime, here's a smile.
 https://www.ibm.com/cloud/blog/announcements/ibm-cloud-for-vmware-special-promotion
 -->
 
-[IBM Cloud](https://mlwiles.github.io/vmwaresolutions/ibmcloud/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[IBM Cloud](https://ibm-vmwaresolutions.github.io/ibmcloud/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)

@@ -16,7 +16,7 @@ For Virtual Machines to integrate their best with the [VMWare Solutions on IBM C
 
 This requires for VMs to be installed.  VMs can be created from your own media or installed from the templates provided in the environment.  
 
-For more details on deploying VMs see [Simple Deploy of a VM](https://mlwiles.github.io/vmwaresolutions/vcd/vm101/).
+For more details on deploying VMs see [Simple Deploy of a VM](https://ibm-vmwaresolutions.github.io/vcd/vm101/).
 
 Back to: [Menu](#toc)
 
@@ -134,5 +134,5 @@ Back to: [Menu](#toc)
 
 _Note the information described in this example are guidelines.  There are multiple ways to configure the various parts of the example.  Please adjust accordingly for your needs._
 
-[VMWare vCloud Director](https://mlwiles.github.io/vmwaresolutions/vcd/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[VMWare vCloud Director](https://ibm-vmwaresolutions.github.io/vcd/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)

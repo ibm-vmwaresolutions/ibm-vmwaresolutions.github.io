@@ -54,5 +54,5 @@ Below is an example of a customer configuring their edge gateway to allow forwar
 
 <img src="images/4-pne.png" width="1000" style="border: 1px solid black">
 
-[VMWare vCloud Director](https://mlwiles.github.io/vmwaresolutions/vcd/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[VMWare vCloud Director](https://ibm-vmwaresolutions.github.io/vcd/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)

@@ -2,7 +2,7 @@
 
 Updated: 2020-12-29
 
-Now that the Replication job has either completed once successfully or has been running on a scheduled cadence via a [Simple Replication job to vCD](https://mlwiles.github.io/vmwaresolutions/vccr/vcd-job/), its now time to prepare for failover testing and/or execution.
+Now that the Replication job has either completed once successfully or has been running on a scheduled cadence via a [Simple Replication job to vCD](https://ibm-vmwaresolutions.github.io/vccr/vcd-job/), its now time to prepare for failover testing and/or execution.
 
 First we re-evaluate that the CCR job is running successfully... 
 
@@ -68,10 +68,10 @@ Status will be reflected in the portal UI.
 
 <img src="images/25-failover-ssp.png" width="1000" style="border: 1px solid black">
 
-Next would be to either stop the Failover Plan, or begin the Permanent Failover to fully [Migration to vCD](https://mlwiles.github.io/vmwaresolutions/vccr/vcd-migration/)
+Next would be to either stop the Failover Plan, or begin the Permanent Failover to fully [Migration to vCD](https://ibm-vmwaresolutions.github.io/vccr/vcd-migration/)
 
 _Note the information described in this example are guidelines.  There are multiple ways to configure the various parts of the example.  Please adjust accordingly for your needs._
 
-[Veeam Cloud Connect Replication](https://mlwiles.github.io/vmwaresolutions/vccr/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[Veeam Cloud Connect Replication](https://ibm-vmwaresolutions.github.io/vccr/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)
 

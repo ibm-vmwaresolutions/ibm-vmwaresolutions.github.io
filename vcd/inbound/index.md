@@ -21,7 +21,7 @@ Compute > Virtual Machine > MACHINE > Actions > Launch Web Console
 
 then you can configure SECURE inbound access to your VM.  This is a great way to take advantage of copy / paste, larger resolution, or just working on your environment without the requirement of the admin portal.
 
-For more details on allowing your VMs Internet or IBM Cloud services access see [Internet and IBM Cloud services access](https://mlwiles.github.io/vmwaresolutions/vcd/outbound/).
+For more details on allowing your VMs Internet or IBM Cloud services access see [Internet and IBM Cloud services access](https://ibm-vmwaresolutions.github.io/vcd/outbound/).
 
 Back to: [Menu](#toc)
 
@@ -63,7 +63,7 @@ For this example, I created a network with the following criteria:
 - Connection Type: `Subinterface`
 - Static IP Pool: `172.16.10.10-172.16.10.20`
 
-Review [vCD -   Networks made easy](https://mlwiles.github.io/vmwaresolutions/vcd/network101/) for additional information on how to create a network.
+Review [vCD -   Networks made easy](https://ibm-vmwaresolutions.github.io/vcd/network101/) for additional information on how to create a network.
 
 <img src="images/3-network.png" style="border: 1px solid black">
 
@@ -140,11 +140,11 @@ To test the rule, I will open a terminal on my local machine and try to ssh to t
 
 <img src="images/12-test.png" style="border: 1px solid black">
 
-For more details on deploying VMs see [vCD - Simple Deploy of a VM](https://mlwiles.github.io/vmwaresolutions/vcd/vm101/).
+For more details on deploying VMs see [vCD - Simple Deploy of a VM](https://ibm-vmwaresolutions.github.io/vcd/vm101/).
 
 Back to: [Menu](#toc)
 
 _Note the information described in this example are guidelines.  There are multiple ways to configure the various parts of the example.  Please adjust accordingly for your needs._
 
-[VMWare vCloud Director](https://mlwiles.github.io/vmwaresolutions/vcd/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[VMWare vCloud Director](https://ibm-vmwaresolutions.github.io/vcd/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)

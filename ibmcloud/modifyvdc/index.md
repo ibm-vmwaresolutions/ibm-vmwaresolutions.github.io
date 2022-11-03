@@ -9,5 +9,5 @@ Work in progress.  Hope to post content soon... in the meantime, here's a smile.
 <img src="../../mlwiles.png" width="100" style="border: 1px solid black">
 
 
-[IBM Cloud](https://mlwiles.github.io/vmwaresolutions/ibmcloud/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[IBM Cloud](https://ibm-vmwaresolutions.github.io/ibmcloud/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)

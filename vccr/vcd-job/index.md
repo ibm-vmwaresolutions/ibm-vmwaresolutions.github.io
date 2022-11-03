@@ -4,7 +4,7 @@ Updated: 2020-11-30
 
 ## Create the job
 
-To create a replication job the step to [Setup service provider](https://mlwiles.github.io/vmwaresolutions/vccr/vcd-sp/) must first be completed.
+To create a replication job the step to [Setup service provider](https://ibm-vmwaresolutions.github.io/vccr/vcd-sp/) must first be completed.
 
 To create the actual replication job from your current data center or offering into IBM Cloud, open the console on your Veeam Backup and Replication (VBR) Server.  Select Home > Replication.  There are several ways to begin the job wizard.  <br/>
 - Home > Replication Job > Virtual Machine...
@@ -77,7 +77,7 @@ The snapshot is transferred via the local VBR to the Service Provider VMWare vCl
 
 Now the Replication Job can be scheduled for the desired frequency.  
 
-Next steps are to test / validate the replications via failover jobs for the [Disaster Recovery Prep](https://mlwiles.github.io/vmwaresolutions/vccr/vcd-dr/).  If the requirement is to permanently [Migration to vCD](https://mlwiles.github.io/vmwaresolutions/vccr/vcd-migration/) then a *Permanent Failover* is required.
+Next steps are to test / validate the replications via failover jobs for the [Disaster Recovery Prep](https://ibm-vmwaresolutions.github.io/vccr/vcd-dr/).  If the requirement is to permanently [Migration to vCD](https://mlwiles.github.io/vmwaresolutions/vccr/vcd-migration/) then a *Permanent Failover* is required.
 
 Otherwise, you can enjoy the summary emails that can be sent on the scheduled cadence to report the status of the replication job.
 
@@ -85,5 +85,5 @@ Otherwise, you can enjoy the summary emails that can be sent on the scheduled ca
 
 _Note the information described in this example are guidelines.  There are multiple ways to configure the various parts of the example.  Please adjust accordingly for your needs._
 
-[Veeam Cloud Connect Replication](https://mlwiles.github.io/vmwaresolutions/vccr/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[Veeam Cloud Connect Replication](https://ibm-vmwaresolutions.github.io/vccr/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)

@@ -2,7 +2,7 @@
 
 Updated: 2021-01-13
 
-Once you have [Setup a simple backup job](https://mlwiles.github.io/vmwaresolutions/vas/backup/index.md), the next set of steps will be to test or restore from the backup.  If you recall in the backup job we focused on two types of items to add.
+Once you have [Setup a simple backup job](https://ibm-vmwaresolutions.github.io/vas/backup/index.md), the next set of steps will be to test or restore from the backup.  If you recall in the backup job we focused on two types of items to add.
 
 1. a vApp (which is the vApp and *ALL* of the Virtual Machines in it)
 2. a VM (this will also include information about the vApp the VM is contained in) 
@@ -55,6 +55,6 @@ Once you have had a chance to review this table, lets look at a couple of exampl
 
 _Note the information described in this example are guidelines.  There are multiple ways to configure the various parts of the example.  Please adjust accordingly for your needs._
 
-[Veeam Availability Suite](https://mlwiles.github.io/vmwaresolutions/vas/)<br/>
-[Main Page](https://mlwiles.github.io/vmwaresolutions)
+[Veeam Availability Suite](https://ibm-vmwaresolutions.github.io/vas/)<br/>
+[Main Page](https://ibm-vmwaresolutions.github.io)
 
