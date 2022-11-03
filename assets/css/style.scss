@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* override and lower title font-size */
+#project_title {
+    margin: 0;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    text-shadow: #111 0px 0px 10px;
+}
+
+/* override and lower tagline font-size */
+#project_tagline {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+    background: none;
+    text-shadow: #111 0px 0px 10px;
+}
+
